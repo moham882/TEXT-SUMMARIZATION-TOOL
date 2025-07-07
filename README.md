@@ -82,5 +82,3 @@ Summaries may not always be perfect, especially for non-English or highly techni
 Conclusion
 In summary, this Python program provides a practical, user-friendly way to generate summaries from long pieces of text by utilizing cloud-based machine learning models from Hugging Face. It demonstrates how to integrate external APIs, handle user input, manage errors, and structure Python code efficiently. With a few enhancements, this script can be adapted into a web app, mobile app, or integrated into larger systems like content management platforms or reading assistants.
 
-Let me know if you’d like this converted into a PDF or want a diagram or flowchart too!**
-**
